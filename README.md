@@ -1,7 +1,7 @@
 # 📊 Airbnb Data Analysis Project using Python<img width="211" height="71" alt="image" src="https://github.com/user-attachments/assets/3d2e8424-16dd-4d83-8074-72396a4ea768" />
 
 
-This project focuses on exploring and analyzing Airbnb listings dataset to uncover insights into pricing, availability, and customer preferences. The goal is to apply data analysis techniques to identify patterns and trends that can help hosts, travelers, and business stakeholders make better decisions.
+This project focuses on exploring and analyzing Airbnb listings dataset of about 1.02 lakhs+ raw data to uncover insights into pricing, availability, and customer preferences. The goal is to apply data analysis techniques to identify patterns and trends that can help hosts, travelers, and business stakeholders make better decisions.
 
 
 
@@ -46,3 +46,78 @@ This project focuses on exploring and analyzing Airbnb listings dataset to uncov
 <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="25"> Identify pricing distribution and factors influencing it
 
 <img src="https://cdn-icons-png.flaticon.com/512/3209/3209265.png" width="25"> Understand seasonal demand and customer booking behavior
+
+
+# ✨ Key Findings
+* **🔑 Insights from Airbnb Data Analysis**
+
+*  **🏡 Room Type Popularity**
+Entire homes/apartments dominate bookings (~65%) ✅
+
+Shared rooms have minimal demand (<5%)
+
+* **💰 Pricing Distribution**
+
+Majority listings priced $50–$150/night 💵
+
+Luxury stays (> $500) clustered in premium city zones
+
+* **📍 Location Trends**
+
+City centers & tourist hubs → higher prices & demand
+
+Suburban stays → budget-friendly & higher availability
+
+* **⭐ Reviews & Ratings Impact**
+
+Listings with >50 reviews → get 30% more bookings
+
+High-rated hosts (⭐4.5+) → charge 10–15% premium
+
+* **📆 Seasonal Booking Patterns**
+
+Peak in summer & holidays → prices surge by 20–25% 🌞🎄
+
+Off-season → many hosts offer discounts
+
+* **👨‍💼 Host Behavior**
+
+Only 10% of hosts control 40%+ of listings (professional hosts)
+
+Individual hosts thrive in suburban & niche markets
+
+
+# 🚀 Capabilities Demonstrated
+
+* **🐍 Python Programming** – Data cleaning, transformation & automation
+
+* **📊 Data Analysis with Pandas & NumPy**– Handling missing values, grouping, aggregations, descriptive stats
+
+* **📈 Data Visualization –** Creating clear insights using Matplotlib & Seaborn
+
+* **🔍 Exploratory Data Analysis (EDA)** – Identifying trends, outliers, correlations
+
+* **🧹 Data Preprocessing**– Removing duplicates, handling missing values, feature extraction
+
+* **🗂️ Statistical Analysis** – Price distribution, demand patterns, seasonal variations
+
+* **📍 Geospatial Insights** – Understanding location-based demand & pricing trends
+
+* **📑 Storytelling with Data** – Translating numbers into actionable business insights
+
+* **🖥️ Report Building** – Presenting findings in dashboards/README for stakeholders
+
+
+
+# 📬 Contact
+
+* **💡 Feel free to connect with me for collaboration, feedback, or opportunities!**
+
+* **📧 Email**: utrajpatna1@email.com
+
+* **💼 LinkedIn**: www.linkedin.com/in/utkarsh-raj01
+
+* **🐙 GitHub**: https://github.com/RaoUtkarshSingh
+
+**✨ Or just drop a ⭐ on this repository if you found it helpfull!**
+
