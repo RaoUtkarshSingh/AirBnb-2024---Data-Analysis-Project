@@ -108,6 +108,92 @@ Individual hosts thrive in suburban & niche markets
 * **🖥️ Report Building** – Presenting findings in dashboards/README for stakeholders
 
 
+# 📊 Visualizations
+
+A quick tour of the charts that turn raw Airbnb data into insights.
+
+* **1) 💰 Price Distribution (Histogram)**
+
+Understand typical nightly rates and outliers.
+
+Insight: Skewed right; a few luxury listings pull the tail.
+
+
+
+* **2) 🏡 Room Type Mix (Bar)**
+
+Share of Entire home, Private room, Shared room, Hotel room.
+
+Insight: Entire homes dominate; shared rooms are niche.
+
+
+
+*  **3) ⭐ Ratings vs Price (Scatter)**
+
+Do higher-rated listings charge more?
+
+Insight: Mild positive relationship; reputation supports a small premium.
+
+
+
+* **4) 🧭 Location & Price (Map)**
+
+Geo-scatter or choropleth by neighborhood.
+
+Insight: Hotspots near city centers & tourist hubs.
+
+
+
+* **5) 📆 Monthly Trend (Line)**
+
+Average price / bookings over time.
+
+Insight: Clear seasonality; peaks in holidays.
+
+
+
+* **6) 🔄 Availability Heatmap**
+
+Calendar-style availability by month/day.
+
+Insight: Off-season gaps + weekend spikes.
+
+
+
+* **7) 🧺 Amenities Impact (Box/Violin)**
+
+Price distributions for key amenities (Wi-Fi, AC, Kitchen, Parking).
+
+Insight: Certain amenities correlate with higher median price.
+
+
+
+* **8) 👤 Host Portfolio (Pareto)**
+
+Listings per host (top 10) to spot professional hosts.
+
+Insight: Small % of hosts manage a large share of listings.
+
+
+# 🤝 Contribution
+
+We welcome contributions to improve this project! 🚀
+
+**1.🛠️ How to Contribute**
+
+**2.🍴 Fork the repository**
+
+**3.🌱 Create a new branch**
+
+**4.✨ Make your changes (code, docs, or visuals)**
+
+ **5.✅ Commit your updates**
+
+**6.📤 Push to your branch**
+
+**7.🔁 Open a Pull Request and describe your changes**
+
+
 
 # 📬 Contact
 
